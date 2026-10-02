@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>周易每日精讲</title>
+    <link>https://ruix98.github.io/zhouyi-podcast/</link>
+    <language>zh-cn</language>
+    <description>每天十分钟，逐卦精读《周易》——经典文化教育节目，不作预测之用。</description>
+    <atom:link href="https://ruix98.github.io/zhouyi-podcast/rss.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>周易每日精讲</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:image href="https://ruix98.github.io/zhouyi-podcast/cover.jpg"/>
+    <item>
+      <title>第 1 期：什么是《周易》——一本书的名字、结构与来历</title>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://ruix98.github.io/zhouyi-podcast/2026-10-01/episode.mp3</guid>
+      <enclosure url="https://ruix98.github.io/zhouyi-podcast/2026-10-01/episode.mp3" length="3902400" type="audio/mpeg"/>
+      <description>《周易每日精讲》第 1 期。不读具体某一卦，先打基础："周易"二字是什么意思、卦和爻是什么、这本书是怎么形成的。经典文化教育，不作预测之用。</description>
+      <itunes:episode>1</itunes:episode>
+      <itunes:duration>1:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
