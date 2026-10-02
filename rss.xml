@@ -14,13 +14,23 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:image href="https://ruix98.github.io/zhouyi-podcast/cover.jpg"/>
     <item>
+      <title>第 2 期：从占筮之书到哲学经典——易学的演变</title>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://ruix98.github.io/zhouyi-podcast/2026-10-02/episode.mp3</guid>
+      <enclosure url="https://ruix98.github.io/zhouyi-podcast/2026-10-02/episode.mp3" length="3921360" type="audio/mpeg"/>
+      <description>《周易每日精讲》第 2 期。不读具体某一卦，读这本书本身的命运：它最早是一部占筮手册，后来被读成道德劝诫，最终成为哲学经典。顺带认识十翼、象数与义理。经典文化教育，不作预测之用。</description>
+      <itunes:episode>2</itunes:episode>
+      <itunes:duration>6:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>第 1 期：什么是《周易》——一本书的名字、结构与来历</title>
       <pubDate>Thu, 01 Oct 2026 07:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://ruix98.github.io/zhouyi-podcast/2026-10-01/episode.mp3</guid>
       <enclosure url="https://ruix98.github.io/zhouyi-podcast/2026-10-01/episode.mp3" length="3647040" type="audio/mpeg"/>
       <description>《周易每日精讲》第 1 期。不读具体某一卦，先打基础："周易"二字是什么意思、卦和爻是什么、这本书是怎么形成的。经典文化教育，不作预测之用。</description>
       <itunes:episode>1</itunes:episode>
-      <itunes:duration>1:31</itunes:duration>
+      <itunes:duration>6:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
