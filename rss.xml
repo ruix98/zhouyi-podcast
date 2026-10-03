@@ -14,6 +14,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:image href="https://ruix98.github.io/zhouyi-podcast/cover.jpg"/>
     <item>
+      <title>第 3 期：阴与阳——中国哲学的一对基本范畴</title>
+      <pubDate>Sat, 03 Oct 2026 07:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://ruix98.github.io/zhouyi-podcast/2026-10-03/episode.mp3</guid>
+      <enclosure url="https://ruix98.github.io/zhouyi-podcast/2026-10-03/episode.mp3" length="4757040" type="audio/mpeg"/>
+      <description>《周易每日精讲》第 3 期。阴与阳最早只是山的向阳面与背阴面，后来成为撑起六十四卦的两块基石。本期从字源讲到阴阳爻，再用泰、否两卦卦辞演示这把总钥匙怎么转动。经典文化教育，不作预测之用。</description>
+      <itunes:episode>3</itunes:episode>
+      <itunes:duration>7:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>第 2 期：从占筮之书到哲学经典——易学的演变</title>
       <pubDate>Fri, 02 Oct 2026 07:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://ruix98.github.io/zhouyi-podcast/2026-10-02/episode.mp3</guid>
