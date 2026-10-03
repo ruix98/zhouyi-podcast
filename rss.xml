@@ -14,6 +14,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:image href="https://ruix98.github.io/zhouyi-podcast/cover.jpg"/>
     <item>
+      <title>第 4 期：八卦——八种基本象征</title>
+      <pubDate>Sun, 04 Oct 2026 07:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://ruix98.github.io/zhouyi-podcast/2026-10-04/episode.mp3</guid>
+      <enclosure url="https://ruix98.github.io/zhouyi-podcast/2026-10-04/episode.mp3" length="5459040" type="audio/mpeg"/>
+      <description>《周易每日精讲》第 4 期。三层爻、两样砖，恰好八种组合。本期照录乾、坤、震、坎、兑五句纯卦卦辞，讲清八卦的命名法与取象思路，再看八卦如何两两相叠、变出六十四卦。经典文化教育，不作预测之用。</description>
+      <itunes:episode>4</itunes:episode>
+      <itunes:duration>9:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>第 3 期：阴与阳——中国哲学的一对基本范畴</title>
       <pubDate>Sat, 03 Oct 2026 07:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://ruix98.github.io/zhouyi-podcast/2026-10-03/episode.mp3</guid>
