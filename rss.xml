@@ -14,6 +14,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:image href="https://ruix98.github.io/zhouyi-podcast/cover.jpg"/>
     <item>
+      <title>第 5 期：卦爻辞——经文在说什么</title>
+      <pubDate>Mon, 05 Oct 2026 07:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://ruix98.github.io/zhouyi-podcast/2026-10-05/episode.mp3</guid>
+      <enclosure url="https://ruix98.github.io/zhouyi-podcast/2026-10-05/episode.mp3" length="5621760" type="audio/mpeg"/>
+      <description>《周易每日精讲》第 5 期。卦辞是整卦的总判语，爻辞是每一爻的批注；本期讲清这套经文的结构与吉、凶、悔、吝、无咎五个断语词，并以乾卦七句话做完整实战演示。经典文化教育，不作预测之用。</description>
+      <itunes:episode>5</itunes:episode>
+      <itunes:duration>9:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>第 4 期：八卦——八种基本象征</title>
       <pubDate>Sun, 04 Oct 2026 07:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://ruix98.github.io/zhouyi-podcast/2026-10-04/episode.mp3</guid>
