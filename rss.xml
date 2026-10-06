@@ -14,6 +14,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:image href="https://ruix98.github.io/zhouyi-podcast/cover.jpg"/>
     <item>
+      <title>第 7 期：《易传》——孔子与「十翼」</title>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://ruix98.github.io/zhouyi-podcast/2026-10-07/episode.mp3</guid>
+      <enclosure url="https://ruix98.github.io/zhouyi-podcast/2026-10-07/episode.mp3" length="5710080" type="audio/mpeg"/>
+      <description>《周易每日精讲》第 7 期。认识经文边上的十只翅膀：彖、象、系辞、文言、说卦、序卦、杂卦；查一桩两千年公案——孔子读《易》可信，十翼托名而非亲笔；再看《文言》如何把「元亨利贞」从占辞读成四德，为义理解读开出空间。经典文化教育，不作预测之用。</description>
+      <itunes:episode>7</itunes:episode>
+      <itunes:duration>9:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>第 6 期：如何读一卦——卦象、卦辞、爻辞</title>
       <pubDate>Tue, 06 Oct 2026 07:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://ruix98.github.io/zhouyi-podcast/2026-10-06/episode.mp3</guid>
